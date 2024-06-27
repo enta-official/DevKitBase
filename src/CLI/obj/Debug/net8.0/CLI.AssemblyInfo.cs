@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Onyx.CoderBase.CLI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99161c4687087899df2b257da84949dd28e947a2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0861f22544fd96e84be2d6f52e2945ec36c21ac3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Onyx.CoderBase.CLI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Onyx.CoderBase.CLI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
