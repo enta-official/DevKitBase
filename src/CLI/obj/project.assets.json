@@ -15,7 +15,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Coderbase\\src\\CLI\\CLI.csproj",
-      "projectName": "CLI",
+      "projectName": "Onyx.CoderBase.CLI",
       "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Coderbase\\src\\CLI\\CLI.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Coderbase\\src\\CLI\\obj\\",

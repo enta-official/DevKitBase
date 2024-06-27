@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Coderbase\\src\\Application\\Application.csproj",
-        "projectName": "Application",
+        "projectName": "Onyx.CoderBase.Application",
         "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Coderbase\\src\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Coderbase\\src\\Application\\obj\\",

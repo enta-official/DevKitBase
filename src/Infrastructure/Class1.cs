@@ -1,4 +1,4 @@
-﻿namespace Infrastructure
+﻿namespace Onyx.CoderBase.Infrastructure
 {
     public class Class1
     {

@@ -15,7 +15,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Coderbase\\src\\Domain\\Domain.csproj",
-      "projectName": "Domain",
+      "projectName": "Onyx.CoderBase.Domain",
       "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Coderbase\\src\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Coderbase\\src\\Domain\\obj\\",

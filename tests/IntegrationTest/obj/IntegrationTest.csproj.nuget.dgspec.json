@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Coderbase\\tests\\IntegrationTest\\IntegrationTest.csproj",
-        "projectName": "IntegrationTest",
+        "projectName": "Onyx.CoderBase.IntegrationTest",
         "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Coderbase\\tests\\IntegrationTest\\IntegrationTest.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Coderbase\\tests\\IntegrationTest\\obj\\",

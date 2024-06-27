@@ -1,4 +1,4 @@
-namespace UnitTest
+namespace Onyx.CoderBase.UnitTest
 {
     public class Tests
     {

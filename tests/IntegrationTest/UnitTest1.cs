@@ -1,4 +1,4 @@
-namespace IntegrationTest
+namespace Onyx.CoderBase.IntegrationTest
 {
     public class Tests
     {
